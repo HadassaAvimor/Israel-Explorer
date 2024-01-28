@@ -19,4 +19,4 @@ Home Work for third lesson in Git course.
 # קרדיטים 
 פרויקט זה נוצר על ידי קבוצת התלמידות והמדריכה שלהן. תודה על תרומתכן!
 
-תהנו מהתרומה לפרויקט! 🚀
+תהנו מהתרומה לפרויקט!!!! 🚀
